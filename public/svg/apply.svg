@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apply</title>
+    <g id="vd-v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="select-BU" transform="translate(-989.000000, -125.000000)" fill="#212121">
+            <g id="Group-2" transform="translate(973.000000, 112.000000)">
+                <g id="Group" transform="translate(10.000000, 4.000000)">
+                    <g id="Check" transform="translate(5.833333, 8.166667)">
+                        <path d="M15.2020167,1.13128167 C15.5437333,1.47298667 15.5437333,2.02701333 15.2020167,2.36871833 L7.03535,10.53535 C6.69363333,10.8770667 6.1397,10.8770667 5.79794833,10.53535 L1.13128167,5.86868333 C0.789576667,5.52696667 0.789576667,4.97303333 1.13128167,4.63131667 C1.47298667,4.2896 2.02701333,4.2896 2.36871833,4.63131667 L6.41666667,8.67918333 L13.96465,1.13128167 C14.3063667,0.789576667 14.8603,0.789576667 15.2020167,1.13128167 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

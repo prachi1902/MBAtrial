@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right</title>
+    <g id="vd-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-deck" transform="translate(-208.000000, -172.000000)" fill="#212121">
+            <g id="Group" transform="translate(193.000000, 160.000000)">
+                <g transform="translate(4.000000, 4.000000)" id="right">
+                    <g id="Caret-right" transform="translate(11.375003, 8.458336)">
+                        <path d="M0.25627875,0.25627875 C0.598030417,-0.08542625 1.15196375,-0.08542625 1.49368042,0.25627875 L6.16034708,4.92298042 C6.50206375,5.26469708 6.50206375,5.81863042 6.16034708,6.16034708 L1.49368042,10.8270138 C1.15196375,11.1687304 0.598030417,11.1687304 0.25627875,10.8270138 C-0.08542625,10.4852971 -0.08542625,9.93136375 0.25627875,9.58964708 L4.30418042,5.54166375 L0.25627875,1.49371542 C-0.08542625,1.15201042 -0.08542625,0.59798375 0.25627875,0.25627875 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

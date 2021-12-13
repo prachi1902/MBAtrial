@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>selected_item_green</title>
+    <g id="vd-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="driver-analysis-custom-pop-up" transform="translate(-441.000000, -186.000000)" fill="#2A9872" fill-rule="nonzero">
+            <g id="Group-50" transform="translate(219.000000, 168.000000)">
+                <g id="Group" transform="translate(217.611056, 12.000000)">
+                    <g id="Checked-box" transform="translate(4.121422, 6.000000)">
+                        <path d="M11.5649561,2.03034 C11.8063889,1.73744 11.8063889,1.26257 11.5649561,0.96968 C11.3235232,0.67678 10.932153,0.67678 10.6907201,0.96968 L3.70927937,9.4393 L1.67356915,6.9697 C1.43214452,6.6768 1.04070839,6.6768 0.799283761,6.9697 C0.557859131,7.2626 0.557859131,7.7374 0.799283761,8.0303 L3.2721614,11.0303 C3.51359427,11.3232 3.90496446,11.3232 4.14639733,11.0303 L11.5649561,2.03034 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

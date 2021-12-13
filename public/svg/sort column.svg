@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sort column</title>
+    <g id="vd-v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="support" transform="translate(-237.000000, -553.000000)" fill="#666666">
+            <g id="sort-column" transform="translate(237.000000, 553.000000)">
+                <polygon id="Path-2" points="0 13 5 18 10 13"></polygon>
+                <polygon id="Path-2" points="0 5 5 0 10 5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

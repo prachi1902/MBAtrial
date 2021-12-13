@@ -1,0 +1,52 @@
+
+.DS_Store
+
+# Created by https://www.toptal.com/developers/gitignore/api/react,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=react,visualstudiocode
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# Support for Project snippet scope
+!.vscode/*.code-snippets
+
+# End of https://www.toptal.com/developers/gitignore/api/react,visualstudiocode
+.DS_Store
+.DS_Store
+components/.DS_Store
+components/.DS_Store
+components/NewPlan/.DS_Store
+containers/.DS_Store
+containers/NewPlan/.DS_Store
+containers/UserManagement/.DS_Store
+pages/.DS_Store
+public/.DS_Store

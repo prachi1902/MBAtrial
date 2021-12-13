@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>new plan drop down</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-1">
+            <stop stop-color="#DD881F" offset="0%"></stop>
+            <stop stop-color="#FDB356" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="vd-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brand-overview" transform="translate(-1122.000000, -25.000000)">
+            <g id="Group-17" transform="translate(1009.000000, 14.000000)">
+                <g id="new-plan-drop-down" transform="translate(113.000000, 11.000000)">
+                    <rect id="Rectangle" stroke="#DD881F" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="15" height="15" rx="4"></rect>
+                    <polygon id="Path-2" fill="#212121" points="4 6.4 8 10.4 12 6.4"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

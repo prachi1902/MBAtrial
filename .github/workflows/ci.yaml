@@ -1,0 +1,34 @@
+name: Build_Push_Deploy
+on:  
+  pull_request:
+    branches:
+      - develop
+jobs:
+    build-and-deploy:
+        runs-on: ubuntu-latest
+        steps:
+        - name: 'Checkout GitHub Action'
+          uses: actions/checkout@main
+        - name: 'Login via Azure CLI'
+          uses: azure/login@v1
+          with:
+            creds: ${{ secrets.AZURE_CREDENTIALS }}
+        - name: Get docker image version
+          id: getversion
+          run:  |
+            MAJOR=$(cat VERSION | cut -d . -f 1)
+            MINOR=$(cat VERSION | cut -d . -f 2)
+            PATCH=$(cat VERSION | cut -d . -f 3)
+            VERSION="v${MAJOR}.${MINOR}.${PATCH}"
+            echo "::set-output name=version::${VERSION}"
+        - name: 'Build and push image'
+          uses: azure/docker-login@v1
+          with:
+            login-server: ${{ secrets.REGISTRY_LOGIN_SERVER }}
+            username: ${{ secrets.REGISTRY_USERNAME }}
+            password: ${{ secrets.REGISTRY_PASSWORD }}
+        - run: |
+            docker build . -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/${{ secrets.IMAGE_NAME }}:${{ steps.getversion.outputs.version }}
+            docker push ${{ secrets.REGISTRY_LOGIN_SERVER }}/${{ secrets.IMAGE_NAME }}:${{ steps.getversion.outputs.version }}
+            docker build . -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/${{ secrets.IMAGE_NAME }}:latest
+            docker push ${{ secrets.REGISTRY_LOGIN_SERVER }}/${{ secrets.IMAGE_NAME }}:latest

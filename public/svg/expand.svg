@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>expand</title>
+    <g id="vd-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ideal-media-plan-FY-summary" transform="translate(-350.000000, -1735.000000)" fill="#212121">
+            <g id="Group-3" transform="translate(339.000000, 1723.000000)">
+                <g id="Group" transform="translate(4.000000, 4.000000)">
+                    <g id="Caret-down" transform="translate(7.250002, 8.750002)">
+                        <path d="M9.2802975,0.2196675 C9.5731975,0.5125575 9.5731975,0.9874375 9.2802975,1.2802975 L5.2802975,5.2802975 C4.9873975,5.5731975 4.5125975,5.5731975 4.2196975,5.2802975 L0.2196675,1.2802975 C-0.0732225,0.9874375 -0.0732225,0.5125575 0.2196675,0.2196675 C0.5125575,-0.0732225 0.9874375,-0.0732225 1.2803275,0.2196675 L4.7499975,3.6892975 L8.2196975,0.2196675 C8.5125975,-0.0732225 8.9873975,-0.0732225 9.2802975,0.2196675 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

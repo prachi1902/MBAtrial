@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Source Sans Pro";
+}
+
+button,
+a {
+  cursor: pointer;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #f4f4f4 !important;
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+#__next {
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  html,
+  body {
+    font-size: 14px;
+  }
+}
+
+/* Scrollbar CSS */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f8f8f8;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #bbb;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
+
+.table-with-scrollbar::-webkit-scrollbar {
+  height: 0.65em;
+  width: 0.5em;
+}
+.table-with-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.table-with-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #e2bb8a;
+  border-radius: 10px;
+  border: solid 2px #b27831;
+}
+
+.react-switch-bg {
+  background-color: transparent;
+  border: solid 2px #ffc885;
+}
+.react-switch-handle {
+  background-color: transparent;
+  box-shadow: none !important;
+}
+
+/* .sp-switch-bg {
+  background-color: transparent;
+  
+  border: solid 2px #811B1A;
+  border: solid 2px #ebe4d8;
+}
+.sp-switch-handle {
+  background-color: transparent;
+  box-shadow: none !important;
+} */
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+  height: 55px;
+  width: 100%;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+.react-datepicker__input-container input {
+  padding-left: 10px;
+}
+
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.media-modal-carousel-container {
+  width: 100%;
+  height: 100%;
+}
+
+.media-input-field::placeholder {
+  color: #ffc885;
+}

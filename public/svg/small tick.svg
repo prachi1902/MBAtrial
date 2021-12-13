@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>small tick</title>
+    <g id="vd-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="invite-global-user" transform="translate(-749.000000, -501.000000)" fill="#333333">
+            <g id="Group-9" transform="translate(744.000000, 495.000000)">
+                <g id="Group" transform="translate(1.000000, 1.000000)">
+                    <g id="Check" transform="translate(4.500002, 5.625002)">
+                        <path d="M9.21022313,0.164750625 C9.42989813,0.384418125 9.42989813,0.740578125 9.21022313,0.960245625 L3.96022313,6.21022312 C3.74054813,6.42989812 3.38444813,6.42989812 3.16475063,6.21022312 L0.164750625,3.21022312 C-0.054916875,2.99054812 -0.054916875,2.63444812 0.164750625,2.41477312 C0.384418125,2.19509812 0.740578125,2.19509812 0.960245625,2.41477312 L3.56249813,5.01697312 L8.41477313,0.164750625 C8.63444813,-0.054916875 8.99054813,-0.054916875 9.21022313,0.164750625 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

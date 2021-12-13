@@ -1,0 +1,73 @@
+.anychart-tooltip {
+  border-radius: 8px;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.85);
+  color: black;
+  width: 350px;
+  display: flex;
+  flex-wrap: wrap;
+  backdrop-filter: blur(4px);
+}
+
+.anychart-tooltip-title {
+  width: 100%;
+}
+
+.anychart-tooltip .flex-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.anychart-tooltip .flex-wrap-div {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  align-items: center;
+  margin-bottom: -1rem;
+  flex-wrap: wrap;
+}
+
+.anychart-tooltip .flex-div .color-box {
+  width: 15px;
+  height: 15px;
+  margin-right: 0.5rem;
+  background-color: #f4e4cf;
+}
+
+.anychart-tooltip .flex-div .green-circle {
+  width: 15px;
+  height: 15px;
+  margin-right: 0.5rem;
+  background-color: #379972;
+  border-radius: 50%;
+}
+
+.anychart-tooltip .green-circle {
+  width: 12px;
+  height: 12px;
+  margin-right: 0.5rem;
+  background-color: #379972;
+  border-radius: 50%;
+}
+
+.anychart-credits {
+  display: none;
+}
+
+.stacked-tooltip {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.wider-tooltip {
+  width: 475px;
+}
+
+.anychart-tooltip br {
+  display: none;
+}

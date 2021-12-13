@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dropdown 2</title>
+    <g id="vd-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brand-overview-vehicle-level" transform="translate(-668.000000, -351.000000)">
+            <g id="Group-32" transform="translate(437.000000, 344.000000)">
+                <g id="Group-17" transform="translate(231.000000, 7.000000)">
+                    <rect id="Rectangle" fill="#E6DED5" x="0" y="0" width="20" height="20" rx="10"></rect>
+                    <path d="M5.17848315,8.12600275 L9.44435565,12.7618828 C9.58350628,12.9130205 9.78661917,13 10.0004023,13 C10.2141854,13 10.4172983,12.9130205 10.5564489,12.7618828 L14.8223214,8.12600275 C15.2294379,7.68350243 14.8919035,7 14.2662748,7 L5.73330903,7 C5.10768029,7 4.77014595,7.68350243 5.17848315,8.12600275 Z" id="Path" fill="#76542B" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
