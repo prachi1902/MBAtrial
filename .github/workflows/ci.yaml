@@ -1,8 +1,8 @@
 name: Build_Push_Deploy
 on:  
-  pull_request:
-    branches:
-      - develop
+  workflow_dispatch:
+   # branches:
+    #  - develop
 jobs:
     build-and-deploy:
         runs-on: ubuntu-latest
